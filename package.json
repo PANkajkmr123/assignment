@@ -1,0 +1,17 @@
+{
+  "name": "assigment-project",
+  "version": "1.0.0",
+  "description": "candidates score",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "parser": "^0.1.4"
+  }
+}
